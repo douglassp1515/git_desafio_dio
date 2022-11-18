@@ -6,7 +6,7 @@ Nesse repositório será postados os desafios da DIO.
   <li>Orange tech</li>
   <ol>
      <li>
-      Git Github orange tech
+      Git Github
      </li>
   </ol>
 </ol>
